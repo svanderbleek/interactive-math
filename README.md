@@ -1,7 +1,5 @@
 ## Papers
 
-### Calculational Style
-
 * [Teaching calculation and discrimination: a more effective curriculum](https://www.cs.scranton.edu/~mccloske/courses/se500/gries_mar1991_cacm.pdf)
 
 ## Texts
