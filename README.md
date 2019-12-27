@@ -13,4 +13,5 @@ Using R
 
 ## Tools
 
-* https://cocalc.com
+* [Collaborative Calculation and Data Science](https://cocalc.com)
+* [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
