@@ -17,9 +17,10 @@
 * https://www.datacamp.com/courses/forecasting-using-r
 * https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r
 
-## Tools
+## Software
 
 * [Collaborative Calculation and Data Science](https://cocalc.com)
 * [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
 * [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
 * [Edukera](https://www.edukera.com/)
+* [Gries Boolean](http://www.cs.cornell.edu/gries/proto/index.html)
