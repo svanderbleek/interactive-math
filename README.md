@@ -21,3 +21,5 @@
 
 * [Collaborative Calculation and Data Science](https://cocalc.com)
 * [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
+* [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
+* [Edukera](https://www.edukera.com/)
