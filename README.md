@@ -23,4 +23,4 @@
 * [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
 * [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
 * [Edukera](https://www.edukera.com/)
-* [Gries Boolean](http://www.cs.cornell.edu/gries/proto/index.html)
+* [CalcCheck](http://calccheck.mcmaster.ca/CalcCheck-0.2/)
