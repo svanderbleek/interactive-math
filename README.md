@@ -1,11 +1,17 @@
+## Papers
+
+### Calculational Style
+
+* [Teaching calculation and discrimination: a more effective curriculum](https://www.cs.scranton.edu/~mccloske/courses/se500/gries_mar1991_cacm.pdf)
+
 ## Texts
 
-Using Sage
+### Using Sage
 
 * http://abstract.ups.edu/aata/aata.html
 * http://linear.pugetsound.edu/html/fcla.html
 
-Using R
+### Using R
 
 * https://otexts.org/fpp2/
 * https://www.datacamp.com/courses/forecasting-using-r
