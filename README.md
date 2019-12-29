@@ -4,6 +4,8 @@
 
 ## Texts
 
+* Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
+
 ### Using Sage
 
 * http://abstract.ups.edu/aata/aata.html
