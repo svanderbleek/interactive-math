@@ -20,6 +20,7 @@ cognitive, metacognitive, and affective evaluation
 constructed video games
 * [Mobile Math](https://link.springer.com/article/10.1007/s11858-010-0276-3)
 * Beyond edutainment: Exploring the educational potential of computer games
+* Games, learning & society: Centers of expertise for academic learning through open-ended video games
 
 ## Texts
 
