@@ -19,6 +19,7 @@ cognitive, metacognitive, and affective evaluation
 * Learning middle school mathematics through student designed and
 constructed video games
 * [Mobile Math](https://link.springer.com/article/10.1007/s11858-010-0276-3)
+* Beyond edutainment: Exploring the educational potential of computer games
 
 ## Texts
 
