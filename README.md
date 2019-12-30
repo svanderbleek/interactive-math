@@ -23,6 +23,7 @@ constructed video games
 * Games, learning & society: Centers of expertise for academic learning through open-ended video games
 * Collaborative learning, reasoning, and technology
 * Developing realistic mathematics education
+* Revisiting mathematics education. China Lectures
 
 ## Texts
 
