@@ -28,6 +28,7 @@
 * [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
 * [CalcCheck](http://calccheck.mcmaster.ca/CalcCheck-0.2/)
 * [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
+* [Lurch](http://lurchmath.org/)
 
 ## Products
 
