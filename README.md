@@ -18,6 +18,7 @@ cognitive, metacognitive, and affective evaluation
 * The effects of modern mathematics computer games on mathematics achievement and class motivation.
 * Learning middle school mathematics through student designed and
 constructed video games
+* [Mobile Math](https://link.springer.com/article/10.1007/s11858-010-0276-3)
 
 ## Texts
 
