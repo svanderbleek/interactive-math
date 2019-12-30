@@ -27,7 +27,7 @@
 
 ### ISETL
 
-* [Learning Abstract Algebra with ISETL](
+* Learning Abstract Algebra with ISETL
 
 
 ## Tools
