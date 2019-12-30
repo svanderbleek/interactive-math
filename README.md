@@ -1,6 +1,7 @@
 ## Papers
 
 * [Teaching calculation and discrimination: a more effective curriculum](https://www.cs.scranton.edu/~mccloske/courses/se500/gries_mar1991_cacm.pdf)
+* [Algebriac Games](https://arxiv.org/abs/1205.2884)
 
 ## Texts
 
