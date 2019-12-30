@@ -17,11 +17,15 @@
 * https://www.datacamp.com/courses/forecasting-using-r
 * https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r
 
-## Software
+## Tools
 
 * [Collaborative Calculation and Data Science](https://cocalc.com)
 * [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
 * [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
-* [Edukera](https://www.edukera.com/)
 * [CalcCheck](http://calccheck.mcmaster.ca/CalcCheck-0.2/)
+* [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
+
+## Products
+
+* [Edukera](https://www.edukera.com/)
 * [Brilliant](https://brilliant.org/practice)
