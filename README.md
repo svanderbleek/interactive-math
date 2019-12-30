@@ -4,25 +4,31 @@
 * [Algebriac Games](https://arxiv.org/abs/1205.2884)
 * [The Effects of Modern Mathematics Computer Games on Mathematics Achievement and Class Motivation
 ](https://eric.ed.gov/?id=EJ884426)
+* [An Abstract Algebra Story](http://www.math.kent.edu/~edd/AlgbraStory.pdf)
 
 ## Texts
 
 * Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
 
-### Using Sage
+### Sage
 
 * http://abstract.ups.edu/aata/aata.html
 * http://linear.pugetsound.edu/html/fcla.html
 
-### Using R
+### R
 
 * https://otexts.org/fpp2/
 * https://www.datacamp.com/courses/forecasting-using-r
 * https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r
 
-### Using Lean
+### Lean
 
 * [Logic and Proof](http://leanprover.github.io/logic_and_proof/)
+
+### ISETL
+
+* [Learning Abstract Algebra with ISETL](
+
 
 ## Tools
 
