@@ -17,6 +17,10 @@
 * https://www.datacamp.com/courses/forecasting-using-r
 * https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r
 
+### Using Lean
+
+* [Logic and Proof](http://leanprover.github.io/logic_and_proof/)
+
 ## Tools
 
 * [Collaborative Calculation and Data Science](https://cocalc.com)
