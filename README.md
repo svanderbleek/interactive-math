@@ -29,6 +29,11 @@
 
 * Learning Abstract Algebra with ISETL
 
+### Inquiry
+
+* [Linear Algebra](http://iola.math.vt.edu/)
+* [Diff Eq](https://iode.wordpress.ncsu.edu/)
+* [Groups](https://taafu.org/ioaa/)
 
 ## Tools
 
