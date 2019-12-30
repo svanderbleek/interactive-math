@@ -24,3 +24,4 @@
 * [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
 * [Edukera](https://www.edukera.com/)
 * [CalcCheck](http://calccheck.mcmaster.ca/CalcCheck-0.2/)
+* [Brilliant](https://brilliant.org/practice)
