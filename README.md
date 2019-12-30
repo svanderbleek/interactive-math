@@ -25,6 +25,8 @@ constructed video games
 * Collaborative learning, reasoning, and technology
 * Developing realistic mathematics education
 * Revisiting mathematics education. China Lectures
+* [Group Theory, Game Theory, a bit of Philosophy and a post in Tao's blog
+](https://mathoverflow.net/questions/76811/group-theory-game-theory-a-bit-of-philosophy-and-a-post-in-taos-blog)
 
 ## Texts
 
@@ -55,7 +57,7 @@ constructed video games
 * [Diff Eq](https://iode.wordpress.ncsu.edu/)
 * [Groups](https://taafu.org/ioaa/)
 
-## Tools
+## Games
 
 * [Collaborative Calculation and Data Science](https://cocalc.com)
 * [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
@@ -64,6 +66,10 @@ constructed video games
 * [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
 * [Lurch](http://lurchmath.org/)
 * [Apros](http://www.phil.cmu.edu/projects/apros/index.php?page=overview)
+* [QED](https://teorth.github.io/QED/)
+* [Emojic](https://play.google.com/store/apps/details?id=org.flowgrid.emojic)
+* [Nand Game](http://nandgame.com/)
+* [Natural Deduction](http://proofs.openlogicproject.org/)
 
 ## Products
 
