@@ -29,6 +29,7 @@
 * [CalcCheck](http://calccheck.mcmaster.ca/CalcCheck-0.2/)
 * [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
 * [Lurch](http://lurchmath.org/)
+* [Apros](http://www.phil.cmu.edu/projects/apros/index.php?page=overview)
 
 ## Products
 
