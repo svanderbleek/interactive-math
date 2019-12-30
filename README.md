@@ -13,6 +13,11 @@ inquiry-oriented curriculum](http://iola.math.vt.edu/media/pubs/Lockwood%20Johns
 * [Engaging in Abstract Algebra through Game Play: Group Theory Card Game Groups](http://sigmaa.maa.org/rume/crume2017/Abstracts_Files/Posters/189.pdf)
 * Designing and Testing a Mathematics Card Game for Teaching and Learning Elementary Group Theory
 * Exploring an Instructional Model for Designing Modules for Secondary Mathematics Teachers in an Abstract Algebra Course
+* Computer games application within alternative classroom goal structures:
+cognitive, metacognitive, and affective evaluation
+* The effects of modern mathematics computer games on mathematics achievement and class motivation.
+* Learning middle school mathematics through student designed and
+constructed video games
 
 ## Texts
 
