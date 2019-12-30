@@ -5,7 +5,8 @@
 * [The Effects of Modern Mathematics Computer Games on Mathematics Achievement and Class Motivation
 ](https://eric.ed.gov/?id=EJ884426)
 * [An Abstract Algebra Story](http://www.math.kent.edu/~edd/AlgbraStory.pdf)
-*  Implementing inquiry-oriented curriculum: From the mathematicians’ perspective
+* Implementing inquiry-oriented curriculum: From the mathematicians’ perspective
+* [Insights and Recommendations from theMAA National Study of College Calculus](https://www.maa.org/sites/default/files/pdf/cspcc/InsightsandRecommendations.pdf)
 
 ## Texts
 
