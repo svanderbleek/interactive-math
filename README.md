@@ -2,6 +2,8 @@
 
 * [Teaching calculation and discrimination: a more effective curriculum](https://www.cs.scranton.edu/~mccloske/courses/se500/gries_mar1991_cacm.pdf)
 * [Algebriac Games](https://arxiv.org/abs/1205.2884)
+* [The Effects of Modern Mathematics Computer Games on Mathematics Achievement and Class Motivation
+](https://eric.ed.gov/?id=EJ884426)
 
 ## Texts
 
