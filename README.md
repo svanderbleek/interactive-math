@@ -10,7 +10,6 @@
 inquiry-oriented curriculum](http://iola.math.vt.edu/media/pubs/Lockwood%20Johnson%20Larsen%202013.pdf)
 * [Insights and Recommendations from theMAA National Study of College Calculus](https://www.maa.org/sites/default/files/pdf/cspcc/InsightsandRecommendations.pdf)
 * [Teaching and Learning Group Theory](http://pdfs.semanticscholar.org/dc59/8009088e0f91db3e06085b8b25e462b5033f.pdf)
-* [Engaging in Abstract Algebra through Game Play: Group Theory Card Game Groups](http://sigmaa.maa.org/rume/crume2017/Abstracts_Files/Posters/189.pdf)
 * The Effects of Mathematical Game Play on the Cognitive and Affective Development of Pre-Secondary Students
 * Designing and Testing a Mathematics Card Game for Teaching and Learning Elementary Group Theory
 * Exploring an Instructional Model for Designing Modules for Secondary Mathematics Teachers in an Abstract Algebra Course
