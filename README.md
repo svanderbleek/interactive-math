@@ -28,6 +28,10 @@ constructed video games
 ](https://mathoverflow.net/questions/76811/group-theory-game-theory-a-bit-of-philosophy-and-a-post-in-taos-blog)
 * GAMIFICATION OF AN UNDERGRADUATE PSYCHOLOGY STATISTICS LAB: BENEFITS TO PERCEIVED COMPETENCE15
 
+## Ehrenfeucht-Fra¨ısse Games
+
+* [Descriptive Complexity: Ehrenfeucht-Fra¨ısse Games](https://people.cs.umass.edu/~immerman/book/ch6.pdf)
+
 ## Texts
 
 * Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
