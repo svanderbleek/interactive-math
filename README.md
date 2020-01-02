@@ -26,6 +26,7 @@ constructed video games
 * Revisiting mathematics education. China Lectures
 * [Group Theory, Game Theory, a bit of Philosophy and a post in Tao's blog
 ](https://mathoverflow.net/questions/76811/group-theory-game-theory-a-bit-of-philosophy-and-a-post-in-taos-blog)
+* GAMIFICATION OF AN UNDERGRADUATE PSYCHOLOGY STATISTICS LAB: BENEFITS TO PERCEIVED COMPETENCE15
 
 ## Texts
 
