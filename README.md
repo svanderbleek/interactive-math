@@ -79,6 +79,8 @@ constructed video games
 
 * [Edukera](https://www.edukera.com/)
 * [Brilliant](https://brilliant.org/practice)
+* [Brain HQ](https://www.brainhq.com/)
+* [Cognifit](https://www.cognifit.com/)
 
 ## Organizations
 * [Imaginary](https://imaginary.org/)
