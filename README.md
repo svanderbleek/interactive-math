@@ -72,9 +72,11 @@ Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-20
 * [Diff Eq](https://iode.wordpress.ncsu.edu/)
 * [Groups](https://taafu.org/ioaa/)
 
-### Interactive
+## Interactive
 
 ### Games
+
+### Online
 
 * [QED](https://teorth.github.io/QED/)
 * [Emojic](https://play.google.com/store/apps/details?id=org.flowgrid.emojic)
@@ -82,6 +84,10 @@ Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-20
 * [Natural Deduction](http://proofs.openlogicproject.org/)
 * [Pebble Games](https://www.cryptolux.org/Pebble/)
 * [Economics Games](https://economics-games.com/)
+
+### Offline
+
+* [Hard Choices](https://www.rose-hulman.edu/class/csse/csse372/201410/Readings/hard-choices-game-explained-v1.pdf)
 
 ### Tools
 
