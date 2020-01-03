@@ -24,7 +24,7 @@
 * [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
 * [Lurch](http://lurchmath.org/)
 * [Apros](http://www.phil.cmu.edu/projects/apros/index.php?page=overview)
-* [WebWork](https://github.com/openwebwork/webwork2)
+* [WebWork](http://webwork.maa.org/wiki/Main_Page#.Xg_L40dKguU)
 * [DeltaMath](https://www.deltamath.com/explore)
 
 # Products
