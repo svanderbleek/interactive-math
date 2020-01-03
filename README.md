@@ -1,3 +1,77 @@
+
+
+## Interactive
+
+### Games
+
+### Online
+
+* [QED](https://teorth.github.io/QED/)
+* [Emojic](https://play.google.com/store/apps/details?id=org.flowgrid.emojic)
+* [Nand Game](http://nandgame.com/)
+* [Natural Deduction](http://proofs.openlogicproject.org/)
+* [Pebble Games](https://www.cryptolux.org/Pebble/)
+* [Economics Games](https://economics-games.com/)
+
+### Offline
+
+* [Hard Choices](https://www.rose-hulman.edu/class/csse/csse372/201410/Readings/hard-choices-game-explained-v1.pdf)
+
+### Tools
+
+* [Gambit](http://www.gambit-project.org/gambit15/gui.html)
+* [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
+* [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
+* [Collaborative Calculation and Data Science](https://cocalc.com)
+* [CalcCheck](http://calccheck.mcmaster.ca/CalcCheck-0.2/)
+* [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
+* [Lurch](http://lurchmath.org/)
+* [Apros](http://www.phil.cmu.edu/projects/apros/index.php?page=overview)
+* [WebWork](https://github.com/openwebwork/webwork2)
+* [DeltaMath](https://www.deltamath.com/explore)
+
+### Products
+
+* [Edukera](https://www.edukera.com/)
+* [Brilliant](https://brilliant.org/practice)
+* [Brain HQ](https://www.brainhq.com/)
+* [Cognifit](https://www.cognifit.com/)
+
+## Organizations
+
+* [Imaginary](https://imaginary.org/)
+* [NeuroScape](https://neuroscape.ucsf.edu/technology/)
+* [VeconLab](http://veconlab.econ.virginia.edu/) - sadz 2011
+
+## Texts
+
+* Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
+
+### Sage
+
+* http://abstract.ups.edu/aata/aata.html
+* http://linear.pugetsound.edu/html/fcla.html
+
+### R
+
+* https://otexts.org/fpp2/
+* https://www.datacamp.com/courses/forecasting-using-r
+* https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r
+
+### Lean
+
+* [Logic and Proof](http://leanprover.github.io/logic_and_proof/)
+
+### ISETL
+
+* Learning Abstract Algebra with ISETL
+
+### Inquiry
+
+* [Linear Algebra](http://iola.math.vt.edu/)
+* [Diff Eq](https://iode.wordpress.ncsu.edu/)
+* [Groups](https://taafu.org/ioaa/)
+
 ## Reading -- need to organize
 
 * [Teaching calculation and discrimination: a more effective curriculum](https://www.cs.scranton.edu/~mccloske/courses/se500/gries_mar1991_cacm.pdf)
@@ -42,75 +116,3 @@ constructed video games
 * [Epistemic Game Theory: Putting
 Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-2018-003.pdf)
 * I Think You Think I Think You're Lying: The Interactive Epistemology of Trust in Social Networks
-
-## Texts
-
-* Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
-
-### Sage
-
-* http://abstract.ups.edu/aata/aata.html
-* http://linear.pugetsound.edu/html/fcla.html
-
-### R
-
-* https://otexts.org/fpp2/
-* https://www.datacamp.com/courses/forecasting-using-r
-* https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r
-
-### Lean
-
-* [Logic and Proof](http://leanprover.github.io/logic_and_proof/)
-
-### ISETL
-
-* Learning Abstract Algebra with ISETL
-
-### Inquiry
-
-* [Linear Algebra](http://iola.math.vt.edu/)
-* [Diff Eq](https://iode.wordpress.ncsu.edu/)
-* [Groups](https://taafu.org/ioaa/)
-
-## Interactive
-
-### Games
-
-### Online
-
-* [QED](https://teorth.github.io/QED/)
-* [Emojic](https://play.google.com/store/apps/details?id=org.flowgrid.emojic)
-* [Nand Game](http://nandgame.com/)
-* [Natural Deduction](http://proofs.openlogicproject.org/)
-* [Pebble Games](https://www.cryptolux.org/Pebble/)
-* [Economics Games](https://economics-games.com/)
-
-### Offline
-
-* [Hard Choices](https://www.rose-hulman.edu/class/csse/csse372/201410/Readings/hard-choices-game-explained-v1.pdf)
-
-### Tools
-
-* [Gambit](http://www.gambit-project.org/gambit15/gui.html)
-* [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
-* [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
-* [Collaborative Calculation and Data Science](https://cocalc.com)
-* [CalcCheck](http://calccheck.mcmaster.ca/CalcCheck-0.2/)
-* [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
-* [Lurch](http://lurchmath.org/)
-* [Apros](http://www.phil.cmu.edu/projects/apros/index.php?page=overview)
-* [WebWork](https://github.com/openwebwork/webwork2)
-* [DeltaMath](https://www.deltamath.com/explore)
-
-### Products
-
-* [Edukera](https://www.edukera.com/)
-* [Brilliant](https://brilliant.org/practice)
-* [Brain HQ](https://www.brainhq.com/)
-* [Cognifit](https://www.cognifit.com/)
-
-## Organizations
-
-* [Imaginary](https://imaginary.org/)
-* [NeuroScape](https://neuroscape.ucsf.edu/technology/)
-* [VeconLab](http://veconlab.econ.virginia.edu/) - sadz 2011
