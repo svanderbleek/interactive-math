@@ -74,6 +74,7 @@ constructed video games
 * [Emojic](https://play.google.com/store/apps/details?id=org.flowgrid.emojic)
 * [Nand Game](http://nandgame.com/)
 * [Natural Deduction](http://proofs.openlogicproject.org/)
+* [Pebble Games](https://www.cryptolux.org/Pebble/)
 
 ## Products
 
