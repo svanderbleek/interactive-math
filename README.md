@@ -99,6 +99,8 @@ Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-20
 * [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
 * [Lurch](http://lurchmath.org/)
 * [Apros](http://www.phil.cmu.edu/projects/apros/index.php?page=overview)
+* [WebWork](https://github.com/openwebwork/webwork2)
+* [DeltaMath](https://www.deltamath.com/explore)
 
 ### Products
 
