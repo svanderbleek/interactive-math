@@ -1,10 +1,10 @@
 
 
-## Interactive
+# Interactive
 
-### Games
+## Games
 
-#### Digital
+### Digital
 
 * [QED](https://teorth.github.io/QED/)
 * [Emojic](https://play.google.com/store/apps/details?id=org.flowgrid.emojic)
@@ -13,11 +13,11 @@
 * [Pebble Games](https://www.cryptolux.org/Pebble/)
 * [Economics Games](https://economics-games.com/)
 
-#### Physical
+### Physical
 
 * [Hard Choices](https://www.rose-hulman.edu/class/csse/csse372/201410/Readings/hard-choices-game-explained-v1.pdf)
 
-### Tools
+## Tools
 
 * [Gambit](http://www.gambit-project.org/gambit15/gui.html)
 * [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
@@ -30,49 +30,49 @@
 * [WebWork](https://github.com/openwebwork/webwork2)
 * [DeltaMath](https://www.deltamath.com/explore)
 
-### Products
+## Products
 
 * [Edukera](https://www.edukera.com/)
 * [Brilliant](https://brilliant.org/practice)
 * [Brain HQ](https://www.brainhq.com/)
 * [Cognifit](https://www.cognifit.com/)
 
-## Organizations
+# Organizations
 
 * [Imaginary](https://imaginary.org/)
 * [NeuroScape](https://neuroscape.ucsf.edu/technology/)
 * [VeconLab](http://veconlab.econ.virginia.edu/) - sadz 2011
 
-## Texts
+# Texts
 
 * Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
 
-### Sage
+## Sage
 
 * http://abstract.ups.edu/aata/aata.html
 * http://linear.pugetsound.edu/html/fcla.html
 
-### R
+## R
 
 * https://otexts.org/fpp2/
 * https://www.datacamp.com/courses/forecasting-using-r
 * https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r
 
-### Lean
+## Lean
 
 * [Logic and Proof](http://leanprover.github.io/logic_and_proof/)
 
-### ISETL
+## ISETL
 
 * Learning Abstract Algebra with ISETL
 
-### Inquiry
+## Inquiry
 
 * [Linear Algebra](http://iola.math.vt.edu/)
 * [Diff Eq](https://iode.wordpress.ncsu.edu/)
 * [Groups](https://taafu.org/ioaa/)
 
-## Reading -- need to organize
+# Reading -- need to organize
 
 * [Teaching calculation and discrimination: a more effective curriculum](https://www.cs.scranton.edu/~mccloske/courses/se500/gries_mar1991_cacm.pdf)
 * [Algebriac Games](https://arxiv.org/abs/1205.2884)
@@ -102,11 +102,11 @@ constructed video games
 * GAMIFICATION OF AN UNDERGRADUATE PSYCHOLOGY STATISTICS LAB: BENEFITS TO PERCEIVED COMPETENCE15
 * [Game Theory and interactive learning](https://pdfs.semanticscholar.org/695c/36d3f06bc6be5b120987ecc55b3aabaf324a.pdf)
 
-### Ehrenfeucht-Fraisse Games
+## Ehrenfeucht-Fraisse Games
 
 * [Descriptive Complexity: Ehrenfeucht-Fraisse Games](https://people.cs.umass.edu/~immerman/book/ch6.pdf)
 
-### Game Theory
+## Game Theory
 
 * [Stochastic game theory: For playing games, not just for doing theory](https://www.pnas.org/content/96/19/10564)
 * [Game Theory through Examples](https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf)
