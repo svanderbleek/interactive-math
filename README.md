@@ -39,6 +39,8 @@ constructed video games
 * [Restoring Fun to Game Theory](sscnet.ucla.edu/polisci/faculty/chwe/austen/dixit2005.pdf)
 * [Epiphany in the Game of 21](https://researchrepository.murdoch.edu.au/id/eprint/4180/1/Dufwenberg_Sundaram__Butler_2010.pdf)
 * Active Learning with Monty Hall in a Game Theory Class
+* [Epistemic Game Theory: Putting
+Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-2018-003.pdf)
 
 ## Texts
 
