@@ -4,7 +4,7 @@
 
 ### Games
 
-### Online
+#### Digital
 
 * [QED](https://teorth.github.io/QED/)
 * [Emojic](https://play.google.com/store/apps/details?id=org.flowgrid.emojic)
@@ -13,7 +13,7 @@
 * [Pebble Games](https://www.cryptolux.org/Pebble/)
 * [Economics Games](https://economics-games.com/)
 
-### Offline
+#### Physical
 
 * [Hard Choices](https://www.rose-hulman.edu/class/csse/csse372/201410/Readings/hard-choices-game-explained-v1.pdf)
 
