@@ -36,6 +36,7 @@ constructed video games
 ### Game Theory
 
 * [Stochastic game theory: For playing games, not just for doing theory](https://www.pnas.org/content/96/19/10564)
+* [Game Theory through Examples](https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf)
 
 ## Texts
 
