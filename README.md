@@ -38,6 +38,7 @@ constructed video games
 * [Stochastic game theory: For playing games, not just for doing theory](https://www.pnas.org/content/96/19/10564)
 * [Game Theory through Examples](https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf)
 * [Restoring Fun to Game Theory](sscnet.ucla.edu/polisci/faculty/chwe/austen/dixit2005.pdf)
+* [Epiphany in the Game of 21](https://researchrepository.murdoch.edu.au/id/eprint/4180/1/Dufwenberg_Sundaram__Butler_2010.pdf)
 
 ## Texts
 
@@ -68,15 +69,10 @@ constructed video games
 * [Diff Eq](https://iode.wordpress.ncsu.edu/)
 * [Groups](https://taafu.org/ioaa/)
 
-## Games
+### Interactive
 
-* [Collaborative Calculation and Data Science](https://cocalc.com)
-* [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
-* [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
-* [CalcCheck](http://calccheck.mcmaster.ca/CalcCheck-0.2/)
-* [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
-* [Lurch](http://lurchmath.org/)
-* [Apros](http://www.phil.cmu.edu/projects/apros/index.php?page=overview)
+### Games
+
 * [QED](https://teorth.github.io/QED/)
 * [Emojic](https://play.google.com/store/apps/details?id=org.flowgrid.emojic)
 * [Nand Game](http://nandgame.com/)
@@ -84,7 +80,18 @@ constructed video games
 * [Pebble Games](https://www.cryptolux.org/Pebble/)
 * [Economics Games](https://economics-games.com/)
 
-## Products
+### Tools
+
+* [Gambit](http://www.gambit-project.org/gambit15/gui.html)
+* [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
+* [Combinatorial Game Suite](http://cgsuite.sourceforge.net/)
+* [Collaborative Calculation and Data Science](https://cocalc.com)
+* [CalcCheck](http://calccheck.mcmaster.ca/CalcCheck-0.2/)
+* [Proof Designer](https://app.cs.amherst.edu/~djvelleman/pd/pd.html)
+* [Lurch](http://lurchmath.org/)
+* [Apros](http://www.phil.cmu.edu/projects/apros/index.php?page=overview)
+
+### Products
 
 * [Edukera](https://www.edukera.com/)
 * [Brilliant](https://brilliant.org/practice)
