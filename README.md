@@ -38,6 +38,7 @@ constructed video games
 * [Game Theory through Examples](https://www.maa.org/sites/default/files/pdf/ebooks/GTE_sample.pdf)
 * [Restoring Fun to Game Theory](sscnet.ucla.edu/polisci/faculty/chwe/austen/dixit2005.pdf)
 * [Epiphany in the Game of 21](https://researchrepository.murdoch.edu.au/id/eprint/4180/1/Dufwenberg_Sundaram__Butler_2010.pdf)
+* Active Learning with Monty Hall in a Game Theory Class
 
 ## Texts
 
