@@ -42,6 +42,8 @@
 
 # Texts
 
+## Meta
+
 * Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
 
 ## Sage
