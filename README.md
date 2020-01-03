@@ -1,4 +1,4 @@
-## Papers -- need to organize
+## Reading -- need to organize
 
 * [Teaching calculation and discrimination: a more effective curriculum](https://www.cs.scranton.edu/~mccloske/courses/se500/gries_mar1991_cacm.pdf)
 * [Algebriac Games](https://arxiv.org/abs/1205.2884)
@@ -28,9 +28,9 @@ constructed video games
 ](https://mathoverflow.net/questions/76811/group-theory-game-theory-a-bit-of-philosophy-and-a-post-in-taos-blog)
 * GAMIFICATION OF AN UNDERGRADUATE PSYCHOLOGY STATISTICS LAB: BENEFITS TO PERCEIVED COMPETENCE15
 
-## Ehrenfeucht-Fra¨ısse Games
+### Ehrenfeucht-Fraisse Games
 
-* [Descriptive Complexity: Ehrenfeucht-Fra¨ısse Games](https://people.cs.umass.edu/~immerman/book/ch6.pdf)
+* [Descriptive Complexity: Ehrenfeucht-Fraisse Games](https://people.cs.umass.edu/~immerman/book/ch6.pdf)
 
 ## Texts
 
@@ -83,4 +83,6 @@ constructed video games
 * [Cognifit](https://www.cognifit.com/)
 
 ## Organizations
+
 * [Imaginary](https://imaginary.org/)
+* [NeuroScape at USF](https://neuroscape.ucsf.edu/technology/)
