@@ -81,6 +81,7 @@ constructed video games
 * [Nand Game](http://nandgame.com/)
 * [Natural Deduction](http://proofs.openlogicproject.org/)
 * [Pebble Games](https://www.cryptolux.org/Pebble/)
+* [Economics Games](https://economics-games.com/)
 
 ## Products
 
