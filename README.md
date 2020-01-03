@@ -33,6 +33,10 @@ constructed video games
 
 * [Descriptive Complexity: Ehrenfeucht-Fraisse Games](https://people.cs.umass.edu/~immerman/book/ch6.pdf)
 
+### Game Theory
+
+* [Stochastic game theory: For playing games, not just for doing theory](https://www.pnas.org/content/96/19/10564)
+
 ## Texts
 
 * Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
