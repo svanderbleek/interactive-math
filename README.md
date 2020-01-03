@@ -27,6 +27,7 @@ constructed video games
 * [Group Theory, Game Theory, a bit of Philosophy and a post in Tao's blog
 ](https://mathoverflow.net/questions/76811/group-theory-game-theory-a-bit-of-philosophy-and-a-post-in-taos-blog)
 * GAMIFICATION OF AN UNDERGRADUATE PSYCHOLOGY STATISTICS LAB: BENEFITS TO PERCEIVED COMPETENCE15
+* [Game Theory and interactive learning])https://pdfs.semanticscholar.org/695c/36d3f06bc6be5b120987ecc55b3aabaf324a.pdf)
 
 ### Ehrenfeucht-Fraisse Games
 
