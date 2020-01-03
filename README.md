@@ -41,6 +41,7 @@ constructed video games
 * Active Learning with Monty Hall in a Game Theory Class
 * [Epistemic Game Theory: Putting
 Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-2018-003.pdf)
+* I Think You Think I Think You're Lying: The Interactive Epistemology of Trust in Social Networks
 
 ## Texts
 
