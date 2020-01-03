@@ -1,10 +1,7 @@
 
+# Games
 
-# Interactive
-
-## Games
-
-### Digital
+## Digital
 
 * [QED](https://teorth.github.io/QED/)
 * [Emojic](https://play.google.com/store/apps/details?id=org.flowgrid.emojic)
@@ -13,11 +10,11 @@
 * [Pebble Games](https://www.cryptolux.org/Pebble/)
 * [Economics Games](https://economics-games.com/)
 
-### Physical
+## Physical
 
 * [Hard Choices](https://www.rose-hulman.edu/class/csse/csse372/201410/Readings/hard-choices-game-explained-v1.pdf)
 
-## Tools
+# Tools
 
 * [Gambit](http://www.gambit-project.org/gambit15/gui.html)
 * [Group Explorer](https://nathancarter.github.io/group-explorer/index.html)
@@ -30,7 +27,7 @@
 * [WebWork](https://github.com/openwebwork/webwork2)
 * [DeltaMath](https://www.deltamath.com/explore)
 
-## Products
+# Products
 
 * [Edukera](https://www.edukera.com/)
 * [Brilliant](https://brilliant.org/practice)
