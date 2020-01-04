@@ -121,6 +121,9 @@ constructed video games
 *  A web-based interactive system for learning FOL to CF conversion
 *  AXolotl: A Self-study Tool for First-order Logic
 * A Mobile Application for Self-Guided Study of Formal Reasoning
+* Introduction to Iltis: an interactive, web-based system for teaching logic
+* Automated Scaffolding and Feedback for Proof Construction: A Case
+Study 
 
 ## Ehrenfeucht-Fraisse Games
 
