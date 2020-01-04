@@ -111,6 +111,7 @@ constructed video games
 * [Game Theory and interactive learning](https://pdfs.semanticscholar.org/695c/36d3f06bc6be5b120987ecc55b3aabaf324a.pdf)
 * Strategies for Computer-Based Programming Instruction: Program Completion vs. Program Generation
 * A Theorem Prover for Scientific and Educational Purposes
+* Theorem Provers as a Learning Tool in Theory of Computation
 
 ## Ehrenfeucht-Fraisse Games
 
