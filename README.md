@@ -43,6 +43,10 @@
 * [NeuroScape](https://neuroscape.ucsf.edu/technology/)
 * [VeconLab](http://veconlab.econ.virginia.edu/) - sadz 2011
 
+# Blogs
+
+* [I speak math](https://ispeakmath.org/)
+
 # Texts
 
 ## Meta
