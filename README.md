@@ -11,6 +11,7 @@
 * [Economics Games](https://economics-games.com/)
 * [FindX](https://play.google.com/store/apps/details?id=com.oakonell.findx)
 * [Algebra Game](https://terrytao.wordpress.com/2012/04/18/new-version-of-algebra-game/)
+* [Axolot](https://play.google.com/store/apps/details?id=org.axolotlLogicSoftware.axolotl&hl=en_US)
 
 ## Physical
 
