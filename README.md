@@ -29,6 +29,7 @@
 * [WebWork](http://webwork.maa.org/wiki/Main_Page#.Xg_L40dKguU)
 * [DeltaMath](https://www.deltamath.com/explore)
 * [Geometer's Skechpad](http://www.edugains.ca/newsite/math/geometerskechpad.html)
+* [Lambda Reducer](http://www.itu.dk/people/sestoft/lamreduce/)
 
 # Products
 
@@ -108,6 +109,7 @@ constructed video games
 * GAMIFICATION OF AN UNDERGRADUATE PSYCHOLOGY STATISTICS LAB: BENEFITS TO PERCEIVED COMPETENCE15
 * [Game Theory and interactive learning](https://pdfs.semanticscholar.org/695c/36d3f06bc6be5b120987ecc55b3aabaf324a.pdf)
 * Strategies for Computer-Based Programming Instruction: Program Completion vs. Program Generation
+* A Theorem Prover for Scientific and Educational Purposes
 
 ## Ehrenfeucht-Fraisse Games
 
