@@ -32,6 +32,7 @@
 * [Geometer's Skechpad](http://www.edugains.ca/newsite/math/geometerskechpad.html)
 * [Lambda Reducer](http://www.itu.dk/people/sestoft/lamreduce/)
 * [Lambda Calculator](http://lambdacalculator.com/)
+* [Elfe](https://elfe-prover.org/)
 
 # Products
 
