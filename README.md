@@ -123,7 +123,9 @@ constructed video games
 * A Mobile Application for Self-Guided Study of Formal Reasoning
 * Introduction to Iltis: an interactive, web-based system for teaching logic
 * Automated Scaffolding and Feedback for Proof Construction: A Case
-Study 
+Study
+* Towards Intuitive Reasoning in Axiomatic Geometry
+
 
 ## Ehrenfeucht-Fraisse Games
 
