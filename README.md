@@ -9,6 +9,8 @@
 * [Natural Deduction](http://proofs.openlogicproject.org/)
 * [Pebble Games](https://www.cryptolux.org/Pebble/)
 * [Economics Games](https://economics-games.com/)
+* [FindX](https://play.google.com/store/apps/details?id=com.oakonell.findx)
+* [Algebra Game](https://terrytao.wordpress.com/2012/04/18/new-version-of-algebra-game/)
 
 ## Physical
 
@@ -26,6 +28,7 @@
 * [Apros](http://www.phil.cmu.edu/projects/apros/index.php?page=overview)
 * [WebWork](http://webwork.maa.org/wiki/Main_Page#.Xg_L40dKguU)
 * [DeltaMath](https://www.deltamath.com/explore)
+* [Geometer's Skechpad](http://www.edugains.ca/newsite/math/geometerskechpad.html)
 
 # Products
 
