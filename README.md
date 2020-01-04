@@ -112,6 +112,14 @@ constructed video games
 * Strategies for Computer-Based Programming Instruction: Program Completion vs. Program Generation
 * A Theorem Prover for Scientific and Educational Purposes
 * Theorem Provers as a Learning Tool in Theory of Computation
+* Learning how to Prove: From the Coq Proof Assistant to Textbook Style
+* The Sequent Calculus Trainer with Automated Reasoning - Helping Students to Find Proofs
+* Pandora: A Reasoning Toolbox using Natural Deduction Style.
+* Ten years of computer-based tutors for teaching logic 2000-2010: Lessons learned
+* A teaching tool for proving equivalences between logical formulae
+*  A web-based interactive system for learning FOL to CF conversion
+*  AXolotl: A Self-study Tool for First-order Logic
+* A Mobile Application for Self-Guided Study of Formal Reasoning
 
 ## Ehrenfeucht-Fraisse Games
 
