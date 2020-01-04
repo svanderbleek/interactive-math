@@ -128,6 +128,7 @@ Study
 * Towards Intuitive Reasoning in Axiomatic Geometry
 * The Elfe System - Verifying mathematical proofs of undergraduate students
 * Desirable features of educational theorem provers
+* Evaluating the Usability of Interactive Verification Systems.
 
 
 ## Ehrenfeucht-Fraisse Games
