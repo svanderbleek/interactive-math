@@ -129,7 +129,16 @@ Study
 * The Elfe System - Verifying mathematical proofs of undergraduate students
 * Desirable features of educational theorem provers
 * Evaluating the Usability of Interactive Verification Systems.
-
+* An empirical evaluation of two user interfaces of an interactive program verifier
+* How to put usability into focus: using focus groups to evaluate the usability of interactive theorem provers
+* Theoretical models of the role of visualisation in learning formal reasoning
+* Towards Usability Evaluation of Interactive Theorem Provers
+* Re-purposing Google maps visualisation for teaching logistics systems
+* A usability evaluation of interactive theorem provers using focus groups
+* An Interaction Concept for Program Verification Systems with Explicit Proof Object
+* An empirical evaluation of two user interfaces of an interactive program verifier
+* Interactive Theorem Proving-Modelling the User in the Proof Process.
+* The KeYmaera X Proof IDE
 
 ## Ehrenfeucht-Fraisse Games
 
