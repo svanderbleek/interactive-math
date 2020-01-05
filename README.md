@@ -33,6 +33,7 @@
 * [Lambda Reducer](http://www.itu.dk/people/sestoft/lamreduce/)
 * [Lambda Calculator](http://lambdacalculator.com/)
 * [Elfe](https://elfe-prover.org/)
+* [Logitext](http://logitext.mit.edu/main)
 
 # Products
 
