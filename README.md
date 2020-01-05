@@ -34,6 +34,7 @@
 * [Lambda Calculator](http://lambdacalculator.com/)
 * [Elfe](https://elfe-prover.org/)
 * [Logitext](http://logitext.mit.edu/main)
+* [Sequent Calculus Trainer](http://www.uni-kassel.de/eecs/fachgebiete/fmv/projects/sequent-calculus-trainer.html)
 
 # Products
 
