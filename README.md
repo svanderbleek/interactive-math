@@ -53,6 +53,7 @@
 * [Theorem proving components for Educational software](https://www.uc.pt/en/congressos/thedu/thedu19)
 * [Naproche](https://korpora-exp.zim.uni-duisburg-essen.de/naproche/)
 * [FMathL](https://www.mat.univie.ac.at/~neum/FMathL.html)
+* [LeoII](https://www.cl.cam.ac.uk/~lp15/Grants/LEO-II/index.html)
 
 # Blogs
 
@@ -150,6 +151,7 @@ Study
 * [ELFE – An interactive theorem prover for undergraduate students](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1617-ug-projects/Maximilian-Dore-ELFE-An-Interactive-Theorem-Prover-for-Undergraduate-Students.pdf)
 * [The Higher-Order Prover Leo-II](https://link.springer.com/article/10.1007/s10817-015-9348-y)
 * [Proof-checking mathematical texts in controlled natural language](https://korpora-exp.zim.uni-duisburg-essen.de/naproche/downloads/2014/SDV.pdf)
+* [Developing the System MathNat for Automatic Formalization of Mathematical texts](https://tel.archives-ouvertes.fr/tel-00680095/document)
 
 ## Ehrenfeucht-Fraisse Games
 
