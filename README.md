@@ -229,15 +229,19 @@ Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-20
 * THE INFLUENCE OF DRAGONBOX ON STUDENT ATTITUDES AND UNDERSTANDING IN 7TH GRADE MATHEMATICS CLASSROOM
 * THE EFFECT OF USING DRAGONBOX ON THE MATHEMATICS TEACHING EFFICACY OF PRESERVICE MIDDLE GRADE TEACHER
 
-## Gamification
+## Learning Analytics and Educational Data Mining
 
+* [Educational Data Mining](http://educationaldatamining.org/)
 * Penetrating the fog: Analytics in learning and education
 * Translating learning into numbers: A generic framework for learning analytics
 * A reference model for learning analytics
 * Let's not forget: Learning analytics are about learning
 * Learning analytics and educational data mining: towards communication and collaboration
-* Challenge Based Learning: The Report from the Implementation Project
 * Creating Effective Learning Analytics Dashboards: Lessons Learnt
+
+## Gamification
+
+* Challenge Based Learning: The Report from the Implementation Project
 * Does gamification work? a literature review of empirical studies on gamification
 * How to use Gamified Dashboards and Learning Analytics for Providing Immediate Student Feedback and Performance Tracking in Higher Education
 * Integration of Learning Analytics techniques and Gamification: an experimental study
