@@ -68,6 +68,7 @@
 
 * Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
 * The Language of Mathematics: A Linguistic and Philosophical Investigation
+* Proof Technology in Mathematics Research and Teaching
 
 ## Sage
 
