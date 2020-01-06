@@ -55,6 +55,7 @@
 * [FMathL](https://www.mat.univie.ac.at/~neum/FMathL.html)
 * [LeoII](https://www.cl.cam.ac.uk/~lp15/Grants/LEO-II/index.html)
 * [Digital Grammars](https://www.digitalgrammars.com/)
+* [MathCat](http://www-al.nii.ac.jp/mathcat-project/)
 
 # Blogs
 
