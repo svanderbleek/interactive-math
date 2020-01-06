@@ -177,6 +177,10 @@ Study
 * [QED-TUTRIX : SYSTÈME TUTORIEL INTELLIGENT POUR L'ACCOMPAGNEMENT DES ÉLÈVES EN SITUATION DE RÉSOLUTION DE PROBLÈMES DE DÉMONSTRATION EN GÉOMÉTRIE PLANE](https://publications.polymtl.ca/2450/)
 * GeoGebraTUTOR : Développement d’un système tutoriel autonome pour l’accompagnement d’élèves en situation de résolution de problèmes de démonstration en géométrie plane et genèse d’un espace de travail géométrique idoine
 
+## Theorem Proving
+
+* [Q0](https://en.wikipedia.org/wiki/Q0_(mathematical_logic))
+
 ## Ehrenfeucht-Fraisse Games
 
 * [Descriptive Complexity: Ehrenfeucht-Fraisse Games](https://people.cs.umass.edu/~immerman/book/ch6.pdf)
