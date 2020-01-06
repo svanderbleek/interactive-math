@@ -143,6 +143,7 @@ Study
 * An empirical evaluation of two user interfaces of an interactive program verifier
 * Interactive Theorem Proving-Modelling the User in the Proof Process.
 * The KeYmaera X Proof IDE
+* Evidential Paradigm and SAD Systems: Features and Peculiarities
 
 ## Ehrenfeucht-Fraisse Games
 
