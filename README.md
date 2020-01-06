@@ -158,6 +158,7 @@ Study
 * [Developing the System MathNat for Automatic Formalization of Mathematical texts](https://tel.archives-ouvertes.fr/tel-00680095/document)
 * [A Fully Automatic Theorem Prover with Human-Style Output](https://link.springer.com/article/10.1007/s10817-016-9377-1)
 * [A language for mathematical knowledge management](http://www.andrew.cmu.edu/user/avigad/Papers/mkm/)
+* [QED-TUTRIX : SYSTÈME TUTORIEL INTELLIGENT POUR L'ACCOMPAGNEMENT DES ÉLÈVES EN SITUATION DE RÉSOLUTION DE PROBLÈMES DE DÉMONSTRATION EN GÉOMÉTRIE PLANE](https://publications.polymtl.ca/2450/)
 
 ## Ehrenfeucht-Fraisse Games
 
