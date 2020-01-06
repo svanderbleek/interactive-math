@@ -39,6 +39,7 @@
 * [Aprove](http://aprove.informatik.rwth-aachen.de/)
 * [ProofToys](https://prooftoys.org/)
 * [CoqGym](https://github.com/princeton-vl/CoqGym)
+* [MathEdit](http://wme.cs.kent.edu/mathedit/)
 
 # Products
 
@@ -65,6 +66,7 @@
 * [ISAC](http://www.ist.tugraz.at/isac/Main_Page)
 * [RISC](https://risc.jku.at/)
 * [MathToys](http://blog.mathtoys.org/)
+* [Collab](https://www2.tuhh.de/zll/blog/collab-neue-europaeische-plattform-fuer-den-austausch-zur-lehre-kommt-2021/)
 
 # Blogs
 
@@ -175,6 +177,7 @@ Study
 ## Applications
 
 * [FORMAL ABSTRACTION IN ENGINEERING EDUCATION — CHALLENGES AND TECHNOLOGY SUPPORT](http://padi.psiedu.ubbcluj.ro/adn/article_10_1_1.pdf)
+* [FACHLICHES PROBLEMLÖSEN IN DER MASCHINENKONSTRUKTION - UNTERSUCHUNG VON STRUKTUR UND ERLERNBARKEIT MITTELS MULTIMODALER TECHNIKMODELLE](http://www.journal-of-technical-education.de/index.php/joted/article/view/86/100)
 
 ## ML
 
