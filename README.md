@@ -54,7 +54,7 @@
 * [Imaginary](https://imaginary.org/)
 * [NeuroScape](https://neuroscape.ucsf.edu/technology/)
 * [VeconLab](http://veconlab.econ.virginia.edu/) - sadz 2011
-* [Theorem proving components for Educational software](https://www.uc.pt/en/congressos/thedu/thedu19)
+* [Theorem proving components for Educational software](https://www.uc.pt/en/congressos/thedu)
 * [Naproche](https://korpora-exp.zim.uni-duisburg-essen.de/naproche/)
 * [FMathL](https://www.mat.univie.ac.at/~neum/FMathL.html)
 * [LeoII](https://www.cl.cam.ac.uk/~lp15/Grants/LEO-II/index.html)
