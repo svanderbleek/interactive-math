@@ -228,3 +228,26 @@ Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-20
 * The Effects of Mathematical Game Play on the Cognitive and Affective Development of Pre-Secondary Students
 * THE INFLUENCE OF DRAGONBOX ON STUDENT ATTITUDES AND UNDERSTANDING IN 7TH GRADE MATHEMATICS CLASSROOM
 * THE EFFECT OF USING DRAGONBOX ON THE MATHEMATICS TEACHING EFFICACY OF PRESERVICE MIDDLE GRADE TEACHER
+
+## Gamification
+
+* Penetrating the fog: Analytics in learning and education
+* Translating learning into numbers: A generic framework for learning analytics
+* A reference model for learning analytics
+* Let's not forget: Learning analytics are about learning
+* Learning analytics and educational data mining: towards communication and collaboration
+* Challenge Based Learning: The Report from the Implementation Project
+* Creating Effective Learning Analytics Dashboards: Lessons Learnt
+* Does gamification work? a literature review of empirical studies on gamification
+* How to use Gamified Dashboards and Learning Analytics for Providing Immediate Student Feedback and Performance Tracking in Higher Education
+* Integration of Learning Analytics techniques and Gamification: an experimental study
+* From game design elements to gamefulness: Defining “gamification.” 
+* Uses and Gratifcations of Initiating Use of Gamifed Learning Platforms
+* [Validating the Effectiveness of Data-Driven Gamification Recommendations: An Exploratory Study](https://www.br-ie.org/pub/index.php/sbie/article/viewFile/8804/6362)
+* [Analysing gamification elements in educational environments using an existing Gamification taxonomy](https://link.springer.com/article/10.1186/s40561-019-0106-1)
+* Gamifying education: what is known, what is believed and what remains uncertain: a critical review
+* [A Critique and Defense of Gamification](https://www.ncolr.org/jiol/issues/pdf/15.1.4.pdf)
+* Leveraging on Gamification and Learning Analytics for Improved Student Learning
+* Investigating Gamification and Learning Analytics Tools for Promoting and Measuring Communities of Inquiry in Moodle Courses
+* Gamification and Learning Analytics to Improve Engagement in University Courses
+
