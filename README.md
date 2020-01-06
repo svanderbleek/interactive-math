@@ -177,6 +177,7 @@ Study
 * [Teaching the Formalization of Mathematical Theories and Algorithms via the Automatic Checking of Finite Models](https://arxiv.org/pdf/1803.01472v1.pdf)
 * [Prototyping “Systems that Explain Themselves” for Education](https://arxiv.org/pdf/1803.01470v1.pdf)
 * [The math problem inside every math problem](http://blog.mathtoys.org/2015/01/the-math-problem-inside-every-math.html)
+* [Automated Generation of User Guidance by Combining Computation and Deduction](https://arxiv.org/pdf/1202.4832.pdf)
 
 ## Applications
 
