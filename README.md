@@ -153,6 +153,7 @@ Study
 * [The Higher-Order Prover Leo-II](https://link.springer.com/article/10.1007/s10817-015-9348-y)
 * [Proof-checking mathematical texts in controlled natural language](https://korpora-exp.zim.uni-duisburg-essen.de/naproche/downloads/2014/SDV.pdf)
 * [Developing the System MathNat for Automatic Formalization of Mathematical texts](https://tel.archives-ouvertes.fr/tel-00680095/document)
+* [A Fully Automatic Theorem Prover with Human-Style Output](https://link.springer.com/article/10.1007/s10817-016-9377-1)
 
 ## Ehrenfeucht-Fraisse Games
 
