@@ -61,9 +61,10 @@
 
 # Texts
 
-## Meta
+## General
 
 * Connecting Abstract Algebra to Secondary Mathematics, for Secondary Mathematics Teachers
+* The Language of Mathematics: A Linguistic and Philosophical Investigation
 
 ## Sage
 
