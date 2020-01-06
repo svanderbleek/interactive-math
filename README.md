@@ -186,6 +186,8 @@ Study
 ## Theorem Proving
 
 * [Q0](https://en.wikipedia.org/wiki/Q0_(mathematical_logic))
+* [Formula editors for tp-based systems. state of the art and prototype implementation
+in ISAC](http://www.ist.tugraz.at/projects/isac/publ/mmahringer-master.pdf)
 
 ## Ehrenfeucht-Fraisse Games
 
