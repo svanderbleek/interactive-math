@@ -221,3 +221,9 @@ in ISAC](http://www.ist.tugraz.at/projects/isac/publ/mmahringer-master.pdf)
 * [Epistemic Game Theory: Putting
 Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-2018-003.pdf)
 * I Think You Think I Think You're Lying: The Interactive Epistemology of Trust in Social Networks
+
+## DragonBox
+
+* The Effects of Mathematical Game Play on the Cognitive and Affective Development of Pre-Secondary Students
+* THE INFLUENCE OF DRAGONBOX ON STUDENT ATTITUDES AND UNDERSTANDING IN 7TH GRADE MATHEMATICS CLASSROOM
+* THE EFFECT OF USING DRAGONBOX ON THE MATHEMATICS TEACHING EFFICACY OF PRESERVICE MIDDLE GRADE TEACHER
