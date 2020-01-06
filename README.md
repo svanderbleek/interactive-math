@@ -163,6 +163,10 @@ Study
 * GeoGebraTUTOR : Développement d’un système tutoriel autonome pour l’accompagnement d’élèves en situation de résolution de problèmes de démonstration en géométrie plane et genèse d’un espace de travail géométrique idoine
 * [The Need for Proof and Proving: Mathematical and Pedagogical Perspectives](https://research.steinhardt.nyu.edu/scmsAdmin/media/users/cdm385/TL_Faculty_Publications/Zaslavsky_et_al_2012.pdf)
 
+## Inteligent Tutoring Systems
+
+* [Wikipedia](https://en.wikipedia.org/wiki/Intelligent_tutoring_system)
+
 ## Ehrenfeucht-Fraisse Games
 
 * [Descriptive Complexity: Ehrenfeucht-Fraisse Games](https://people.cs.umass.edu/~immerman/book/ch6.pdf)
