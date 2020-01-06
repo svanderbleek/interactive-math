@@ -44,6 +44,7 @@
 * [Brilliant](https://brilliant.org/practice)
 * [Brain HQ](https://www.brainhq.com/)
 * [Cognifit](https://www.cognifit.com/)
+* [Imandra](https://www.imandra.ai/)
 
 # Organizations
 
