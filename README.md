@@ -144,6 +144,7 @@ Study
 * Interactive Theorem Proving-Modelling the User in the Proof Process.
 * The KeYmaera X Proof IDE
 * Evidential Paradigm and SAD Systems: Features and Peculiarities
+* [ELFE – An interactive theorem prover for undergraduate students](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1617-ug-projects/Maximilian-Dore-ELFE-An-Interactive-Theorem-Prover-for-Undergraduate-Students.pdf)
 
 ## Ehrenfeucht-Fraisse Games
 
