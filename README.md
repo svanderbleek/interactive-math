@@ -37,6 +37,7 @@
 * [Sequent Calculus Trainer](http://www.uni-kassel.de/eecs/fachgebiete/fmv/projects/sequent-calculus-trainer.html)
 * [SAD](http://nevidal.org/sad.en.html)
 * [Aprove](http://aprove.informatik.rwth-aachen.de/)
+* [ProofToys](https://prooftoys.org/)
 
 # Products
 
@@ -45,6 +46,7 @@
 * [Brain HQ](https://www.brainhq.com/)
 * [Cognifit](https://www.cognifit.com/)
 * [Imandra](https://www.imandra.ai/)
+* [4Ferries](https://fourferries.com/en/)
 
 # Organizations
 
@@ -61,6 +63,7 @@
 * [ISAAC](http://www.isaacmath.org/home/)
 * [ISAC](http://www.ist.tugraz.at/isac/Main_Page)
 * [RISC](https://risc.jku.at/)
+* [MathToys](http://blog.mathtoys.org/)
 
 # Blogs
 
