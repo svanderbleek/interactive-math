@@ -57,6 +57,7 @@
 * [Digital Grammars](https://www.digitalgrammars.com/)
 * [MathCat](http://www-al.nii.ac.jp/mathcat-project/)
 * [Evidence Algorithm](http://nevidal.org/)
+* [RISCAL](https://www3.risc.jku.at/research/formal/software/RISCAL/)
 
 # Blogs
 
