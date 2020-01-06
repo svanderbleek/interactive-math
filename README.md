@@ -38,6 +38,7 @@
 * [SAD](http://nevidal.org/sad.en.html)
 * [Aprove](http://aprove.informatik.rwth-aachen.de/)
 * [ProofToys](https://prooftoys.org/)
+* [CoqGym](https://github.com/princeton-vl/CoqGym)
 
 # Products
 
@@ -170,6 +171,10 @@ Study
 * [Teaching the Formalization of Mathematical Theories and Algorithms via the Automatic Checking of Finite Models](https://arxiv.org/pdf/1803.01472v1.pdf)
 * [Prototyping “Systems that Explain Themselves” for Education](https://arxiv.org/pdf/1803.01470v1.pdf)
 * [The math problem inside every math problem](http://blog.mathtoys.org/2015/01/the-math-problem-inside-every-math.html)
+
+## ML
+
+* [Learning to Prove Theorems via Interacting with Proof Assistants](http://proceedings.mlr.press/v97/yang19a/yang19a.pdf)
 
 ## Inteligent Tutoring Systems
 
