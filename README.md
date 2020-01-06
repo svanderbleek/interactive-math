@@ -232,6 +232,8 @@ Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-20
 ## Learning Analytics and Educational Data Mining
 
 * [Educational Data Mining](http://educationaldatamining.org/)
+* [User Modeling](https://www.um.org/)
+* [International Society of Learning Science](https://www.isls.org/)
 * Penetrating the fog: Analytics in learning and education
 * Translating learning into numbers: A generic framework for learning analytics
 * A reference model for learning analytics
