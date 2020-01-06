@@ -189,6 +189,10 @@ Study
 * [Formula editors for tp-based systems. state of the art and prototype implementation
 in ISAC](http://www.ist.tugraz.at/projects/isac/publ/mmahringer-master.pdf)
 
+## Proof
+
+* [Structured Derivations: a Unified Proof Style for Teaching Mathematics](https://hal.archives-ouvertes.fr/hal-00540025/document)
+
 ## Ehrenfeucht-Fraisse Games
 
 * [Descriptive Complexity: Ehrenfeucht-Fraisse Games](https://people.cs.umass.edu/~immerman/book/ch6.pdf)
