@@ -159,13 +159,14 @@ Study
 * [Developing the System MathNat for Automatic Formalization of Mathematical texts](https://tel.archives-ouvertes.fr/tel-00680095/document)
 * [A Fully Automatic Theorem Prover with Human-Style Output](https://link.springer.com/article/10.1007/s10817-016-9377-1)
 * [A language for mathematical knowledge management](http://www.andrew.cmu.edu/user/avigad/Papers/mkm/)
-* [QED-TUTRIX : SYSTÈME TUTORIEL INTELLIGENT POUR L'ACCOMPAGNEMENT DES ÉLÈVES EN SITUATION DE RÉSOLUTION DE PROBLÈMES DE DÉMONSTRATION EN GÉOMÉTRIE PLANE](https://publications.polymtl.ca/2450/)
-* GeoGebraTUTOR : Développement d’un système tutoriel autonome pour l’accompagnement d’élèves en situation de résolution de problèmes de démonstration en géométrie plane et genèse d’un espace de travail géométrique idoine
 * [The Need for Proof and Proving: Mathematical and Pedagogical Perspectives](https://research.steinhardt.nyu.edu/scmsAdmin/media/users/cdm385/TL_Faculty_Publications/Zaslavsky_et_al_2012.pdf)
 
 ## Inteligent Tutoring Systems
 
 * [Wikipedia](https://en.wikipedia.org/wiki/Intelligent_tutoring_system)
+* [Improving QED-Tutrix by Automating the Generation of Proofs](https://arxiv.org/pdf/1803.01468v1.pdf)
+* [QED-TUTRIX : SYSTÈME TUTORIEL INTELLIGENT POUR L'ACCOMPAGNEMENT DES ÉLÈVES EN SITUATION DE RÉSOLUTION DE PROBLÈMES DE DÉMONSTRATION EN GÉOMÉTRIE PLANE](https://publications.polymtl.ca/2450/)
+* GeoGebraTUTOR : Développement d’un système tutoriel autonome pour l’accompagnement d’élèves en situation de résolution de problèmes de démonstration en géométrie plane et genèse d’un espace de travail géométrique idoine
 
 ## Ehrenfeucht-Fraisse Games
 
