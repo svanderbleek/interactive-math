@@ -56,6 +56,7 @@
 * [LeoII](https://www.cl.cam.ac.uk/~lp15/Grants/LEO-II/index.html)
 * [Digital Grammars](https://www.digitalgrammars.com/)
 * [MathCat](http://www-al.nii.ac.jp/mathcat-project/)
+* [Evidence Algorithm](http://nevidal.org/)
 
 # Blogs
 
