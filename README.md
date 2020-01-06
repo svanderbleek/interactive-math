@@ -161,6 +161,7 @@ Study
 * [A Fully Automatic Theorem Prover with Human-Style Output](https://link.springer.com/article/10.1007/s10817-016-9377-1)
 * [A language for mathematical knowledge management](http://www.andrew.cmu.edu/user/avigad/Papers/mkm/)
 * [The Need for Proof and Proving: Mathematical and Pedagogical Perspectives](https://research.steinhardt.nyu.edu/scmsAdmin/media/users/cdm385/TL_Faculty_Publications/Zaslavsky_et_al_2012.pdf)
+* [Teaching the Formalization of Mathematical Theories and Algorithms via the Automatic Checking of Finite Models](https://arxiv.org/pdf/1803.01472v1.pdf)
 
 ## Inteligent Tutoring Systems
 
