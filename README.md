@@ -172,6 +172,10 @@ Study
 * [Prototyping “Systems that Explain Themselves” for Education](https://arxiv.org/pdf/1803.01470v1.pdf)
 * [The math problem inside every math problem](http://blog.mathtoys.org/2015/01/the-math-problem-inside-every-math.html)
 
+## Applications
+
+* [FORMAL ABSTRACTION IN ENGINEERING EDUCATION — CHALLENGES AND TECHNOLOGY SUPPORT](http://padi.psiedu.ubbcluj.ro/adn/article_10_1_1.pdf)
+
 ## ML
 
 * [Learning to Prove Theorems via Interacting with Proof Assistants](http://proceedings.mlr.press/v97/yang19a/yang19a.pdf)
