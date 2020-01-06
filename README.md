@@ -146,6 +146,7 @@ Study
 * The KeYmaera X Proof IDE
 * Evidential Paradigm and SAD Systems: Features and Peculiarities
 * [ELFE – An interactive theorem prover for undergraduate students](https://www.imperial.ac.uk/media/imperial-college/faculty-of-engineering/computing/public/1617-ug-projects/Maximilian-Dore-ELFE-An-Interactive-Theorem-Prover-for-Undergraduate-Students.pdf)
+* [The Higher-Order Prover Leo-II](https://link.springer.com/article/10.1007/s10817-015-9348-y)
 
 ## Ehrenfeucht-Fraisse Games
 
