@@ -12,6 +12,7 @@
 * [FindX](https://play.google.com/store/apps/details?id=com.oakonell.findx)
 * [Algebra Game](https://terrytao.wordpress.com/2012/04/18/new-version-of-algebra-game/)
 * [Axolot](https://play.google.com/store/apps/details?id=org.axolotlLogicSoftware.axolotl&hl=en_US)
+* [Natural Numbers Game](http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 
 ## Physical
 
@@ -67,6 +68,9 @@
 * [RISC](https://risc.jku.at/)
 * [MathToys](http://blog.mathtoys.org/)
 * [Collab](https://www2.tuhh.de/zll/blog/collab-neue-europaeische-plattform-fuer-den-austausch-zur-lehre-kommt-2021/)
+* [Xena Project](https://xenaproject.wordpress.com/)
+* [Proving for Fun](https://competition.isabelle.systems/)
+* [Big Proof](https://www.icms.org.uk/bigproof.php)
 
 # Blogs
 
