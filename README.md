@@ -259,3 +259,12 @@ Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-20
 * Investigating Gamification and Learning Analytics Tools for Promoting and Measuring Communities of Inquiry in Moodle Courses
 * Gamification and Learning Analytics to Improve Engagement in University Courses
 
+## Probability and Statistics
+
+It's unclear how to relate this to any game / proof techniques.
+
+* Constructing a logic of plausible inference: a guide to Cox’s theorem
+* Fundamentals of statistical causality
+* [Rubin Causal Model](https://en.wikipedia.org/wiki/Rubin_causal_model)
+* The Neyman-Rubin Model of Causal Inference and Estimation via Matching Methods
+* Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction
