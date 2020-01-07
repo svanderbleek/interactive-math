@@ -72,6 +72,7 @@
 * [Xena Project](https://xenaproject.wordpress.com/)
 * [Proving for Fun](https://competition.isabelle.systems/)
 * [Big Proof](https://www.icms.org.uk/bigproof.php)
+* [xAPI](https://www.valamis.com/hub/xapi)
 
 # Blogs
 
