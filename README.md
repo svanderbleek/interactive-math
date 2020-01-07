@@ -73,6 +73,7 @@
 * [Proving for Fun](https://competition.isabelle.systems/)
 * [Big Proof](https://www.icms.org.uk/bigproof.php)
 * [xAPI](https://www.valamis.com/hub/xapi)
+* [YouCubed](https://www.youcubed.org/)
 
 # Blogs
 
@@ -276,3 +277,7 @@ It's unclear how to relate this to any game / proof techniques.
 ## AI and Machine Learning
 
 * [OkAI](https://okai.brown.edu/)
+
+## Data Science
+
+* [Ohmage](http://ohmage.org/)
