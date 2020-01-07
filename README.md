@@ -294,6 +294,7 @@ It's unclear how to relate this to any game / proof techniques.
 * [50 years of statistics teaching in English schools: some milestones](https://rss.onlinelibrary.wiley.com/doi/full/10.1046/j.1467-9884.2003.372_1.x)
 * [K-12 Data Literacy](http://freakonomics.com/math/)
 * [Introduction to Data Science](https://www.introdatascience.org/)
+* [ISLE](http://www.stat.cmu.edu/isle/)
 
 # Related Work
 
