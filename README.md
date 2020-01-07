@@ -279,6 +279,8 @@ It's unclear how to relate this to any game / proof techniques.
 * [Seeing Theory](https://seeing-theory.brown.edu/)
 * GeoGebra in Teaching and Learning Introductory Statistics
 * [ISLP](http://iase-web.org/islp/Resources.php?p=Apps)
+* [Alex Reinhart Pedagogy](https://www.refsmmat.com/research.html#pedagogy)
+* [Teaching Statistics Group](http://www.stat.cmu.edu/teachstat/)
 
 ## AI and Machine Learning
 
