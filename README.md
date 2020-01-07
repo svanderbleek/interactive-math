@@ -18,6 +18,10 @@
 
 * [Hard Choices](https://www.rose-hulman.edu/class/csse/csse372/201410/Readings/hard-choices-game-explained-v1.pdf)
 
+# Interactives
+
+* [Digital Mathematics](http://www.malinc.se/math/)
+
 # Tools
 
 * [Gambit](http://www.gambit-project.org/gambit15/gui.html)
@@ -273,6 +277,8 @@ It's unclear how to relate this to any game / proof techniques.
 * Developing Interactive Tools for Teaching Statistics to Psychology Students
 * Teaching Research Methods and Statistics in eLearning Environments: Pedagogy, Practical Examples, and Possible Futures
 * [Seeing Theory](https://seeing-theory.brown.edu/)
+* GeoGebra in Teaching and Learning Introductory Statistics
+* [ISLP](http://iase-web.org/islp/Resources.php?p=Apps)
 
 ## AI and Machine Learning
 
