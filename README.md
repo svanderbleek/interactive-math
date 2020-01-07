@@ -270,3 +270,4 @@ It's unclear how to relate this to any game / proof techniques.
 * Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction
 * [Probability Box](https://en.wikipedia.org/wiki/Probability_box)
 * Developing Interactive Tools for Teaching Statistics to Psychology Students
+* Teaching Research Methods and Statistics in eLearning Environments: Pedagogy, Practical Examples, and Possible Futures
