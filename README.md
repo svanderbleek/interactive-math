@@ -268,3 +268,4 @@ It's unclear how to relate this to any game / proof techniques.
 * [Rubin Causal Model](https://en.wikipedia.org/wiki/Rubin_causal_model)
 * The Neyman-Rubin Model of Causal Inference and Estimation via Matching Methods
 * Causal Inference for Statistics, Social, and Biomedical Sciences: An Introduction
+* [Probability Box](https://en.wikipedia.org/wiki/Probability_box)
