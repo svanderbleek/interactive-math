@@ -272,3 +272,7 @@ It's unclear how to relate this to any game / proof techniques.
 * Developing Interactive Tools for Teaching Statistics to Psychology Students
 * Teaching Research Methods and Statistics in eLearning Environments: Pedagogy, Practical Examples, and Possible Futures
 * [Seeing Theory](https://seeing-theory.brown.edu/)
+
+## AI and Machine Learning
+
+* [OkAI](https://okai.brown.edu/)
