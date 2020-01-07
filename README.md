@@ -302,3 +302,4 @@ It's unclear how to relate this to any game / proof techniques.
 * [uTheory](https://utheory.com/)
 * [Hookpad](https://www.hooktheory.com/hookpad)
 * [Notation Training](https://www.notationtraining.com/)
+* [Syntorial](https://www.syntorial.com/)
