@@ -319,6 +319,13 @@ It's unclear how to relate this to any game / proof techniques.
 * [Introduction to Data Science](https://www.introdatascience.org/)
 * [ISLE](http://www.stat.cmu.edu/isle/)
 
+## Game Design
+
+* [Formal Models and Game Design](http://www.gamestudies.org/0501/gruenvogel/)
+* [DISCO, a Formal Model of Serious Games to Help Teachers at the Design Stage](https://hal.archives-ouvertes.fr/hal-01313851/document)
+* Interdisciplinary Models and Tools for Serious Games
+* Exploring Games as Formal Models
+
 # Related Work
 
 ## Music
