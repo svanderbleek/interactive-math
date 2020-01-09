@@ -49,7 +49,8 @@
 * [Tutch](http://www2.tcs.ifi.lmu.de/~abel/tutch/)
   * [Demo](http://tutch.glitch.me/)
 * [Ollibot](http://ollibot.hyperkind.org/)
-* [Pandora](https://www.doc.ic.ac.uk/pandora/)
+* [Pandora](https://www.doc.ic.ac.uk/pandora/newpandora/index.html)
+* [Fitch](https://proofmood.mindconnect.cc/en/Fitch/fitch.php)
 
 # Products
 
@@ -217,6 +218,10 @@ in ISAC](http://www.ist.tugraz.at/projects/isac/publ/mmahringer-master.pdf)
 ## Logics
 
 * Human-Readable Machine-Verifiable Proofs for Teaching Constructive Logic
+* Friendly e-tutor for Natural Deduction
+* Pandora: A Reasoning Toolbox using Natural Deduction Style
+* The Evaluation of an Educational Aiding Tool for Students Learning Logic
+
 
 ## Proof
 
