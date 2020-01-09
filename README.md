@@ -46,7 +46,9 @@
 * [CoqGym](https://github.com/princeton-vl/CoqGym)
 * [MathEdit](http://wme.cs.kent.edu/mathedit/)
 * [ProvingGround](http://siddhartha-gadgil.github.io/ProvingGround/)
-* [Tutch](http://tutch.glitch.me/)
+* [Tutch](http://www2.tcs.ifi.lmu.de/~abel/tutch/)
+  * [Demo](http://tutch.glitch.me/)
+* [Ollibot](http://ollibot.hyperkind.org/)
 
 # Products
 
