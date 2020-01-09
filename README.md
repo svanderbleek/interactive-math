@@ -325,6 +325,7 @@ It's unclear how to relate this to any game / proof techniques.
 * [DISCO, a Formal Model of Serious Games to Help Teachers at the Design Stage](https://hal.archives-ouvertes.fr/hal-01313851/document)
 * Interdisciplinary Models and Tools for Serious Games
 * Exploring Games as Formal Models
+* [Deriving Quests from Open World Mechanics](https://arxiv.org/pdf/1705.00341.pdf)
 
 # Related Work
 
