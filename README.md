@@ -51,6 +51,8 @@
 * [Ollibot](http://ollibot.hyperkind.org/)
 * [Pandora](https://www.doc.ic.ac.uk/pandora/newpandora/index.html)
 * [Fitch](https://proofmood.mindconnect.cc/en/Fitch/fitch.php)
+* [Teaching Logic](http://teachinglogic.liglab.fr)
+* [Conan](https://github.com/nonilole/Conan)
 
 # Products
 
@@ -84,6 +86,12 @@
 * [xAPI](https://www.valamis.com/hub/xapi)
 * [YouCubed](https://www.youcubed.org/)
 * [POEM Lab](https://sites.google.com/ncsu.edu/poem/home)
+* [Verimag](http://www-verimag.imag.fr/)
+
+# Courses
+
+* [Constructive Logic
+Software](http://www.cs.cmu.edu/~fp/courses/15317-f09/software.html)
 
 # Blogs
 
@@ -221,6 +229,7 @@ in ISAC](http://www.ist.tugraz.at/projects/isac/publ/mmahringer-master.pdf)
 * Friendly e-tutor for Natural Deduction
 * Pandora: A Reasoning Toolbox using Natural Deduction Style
 * The Evaluation of an Educational Aiding Tool for Students Learning Logic
+* [Proof Editor for Natural Deduction in First-order Logic The Evaluation of an Educational Aiding Tool for Students Learning Logic](https://gupea.ub.gu.se/bitstream/2077/53339/1/gupea_2077_53339_1.pdf)
 
 
 ## Proof
