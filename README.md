@@ -49,6 +49,7 @@
 * [Tutch](http://www2.tcs.ifi.lmu.de/~abel/tutch/)
   * [Demo](http://tutch.glitch.me/)
 * [Ollibot](http://ollibot.hyperkind.org/)
+* [Pandora](https://www.doc.ic.ac.uk/pandora/)
 
 # Products
 
@@ -212,6 +213,10 @@ Study
 * [Q0](https://en.wikipedia.org/wiki/Q0_(mathematical_logic))
 * [Formula editors for tp-based systems. state of the art and prototype implementation
 in ISAC](http://www.ist.tugraz.at/projects/isac/publ/mmahringer-master.pdf)
+
+## Logics
+
+* Human-Readable Machine-Verifiable Proofs for Teaching Constructive Logic
 
 ## Proof
 
