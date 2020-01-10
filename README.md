@@ -112,9 +112,11 @@ Software](http://www.cs.cmu.edu/~fp/courses/15317-f09/software.html)
 
 ## R
 
+* https://cran.r-project.org/web/packages/matlib/
 * https://otexts.org/fpp2/
 * https://www.datacamp.com/courses/forecasting-using-r
 * https://www.datacamp.com/courses/linear-algebra-for-data-science-in-r
+
 
 ## Lean
 
