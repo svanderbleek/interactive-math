@@ -328,6 +328,7 @@ It's unclear how to relate this to any game / proof techniques.
 * Interdisciplinary Models and Tools for Serious Games
 * Exploring Games as Formal Models
 * [Deriving Quests from Open World Mechanics](https://arxiv.org/pdf/1705.00341.pdf)
+* [The Design of Artifacts for Augmenting Intellect](http://cassandraxia.com/projs/designofiaartifacts.pdf)
 
 # Related Work
 
