@@ -341,3 +341,7 @@ It's unclear how to relate this to any game / proof techniques.
 * [Hookpad](https://www.hooktheory.com/hookpad)
 * [Notation Training](https://www.notationtraining.com/)
 * [Syntorial](https://www.syntorial.com/)
+
+## Algorithms
+
+* https://www.redblobgames.com/pathfinding/a-star/introduction.html
