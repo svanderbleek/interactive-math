@@ -347,3 +347,4 @@ It's unclear how to relate this to any game / proof techniques.
 ## Algorithms
 
 * https://www.redblobgames.com/pathfinding/a-star/introduction.html
+* https://www.csunplugged.org/en/
