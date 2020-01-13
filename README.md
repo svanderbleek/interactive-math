@@ -342,6 +342,7 @@ It's unclear how to relate this to any game / proof techniques.
 * [Notation Training](https://www.notationtraining.com/)
 * [Syntorial](https://www.syntorial.com/)
 * [Learning Synths](https://learningsynths.ableton.com/)
+* [Toned Ear](https://tonedear.com/)
 
 ## Algorithms
 
