@@ -22,6 +22,7 @@
 * [Black Box](https://gamegix.com/blackbox/game)
 * [Set](https://www.setgame.com/welcome)
 * [Color Code](http://colorcode.laebisch.com/)
+* [Entropy](https://www.boardgamegeek.com/boardgame/1329/hyle)
 
 # Interactives
 
