@@ -328,6 +328,7 @@ It's unclear how to relate this to any game / proof techniques.
 
 ## Game Design
 
+* https://en.wikipedia.org/wiki/Game_mechanics
 * [Formal Models and Game Design](http://www.gamestudies.org/0501/gruenvogel/)
 * [DISCO, a Formal Model of Serious Games to Help Teachers at the Design Stage](https://hal.archives-ouvertes.fr/hal-01313851/document)
 * Interdisciplinary Models and Tools for Serious Games
