@@ -207,6 +207,10 @@ Study
 * [The math problem inside every math problem](http://blog.mathtoys.org/2015/01/the-math-problem-inside-every-math.html)
 * [Automated Generation of User Guidance by Combining Computation and Deduction](https://arxiv.org/pdf/1202.4832.pdf)
 
+## Back and forth games
+
+* [Entropy and Matrix Multiplication Games](https://drops.dagstuhl.de/opus/volltexte/2016/5712/)
+
 ## Applications
 
 * [FORMAL ABSTRACTION IN ENGINEERING EDUCATION — CHALLENGES AND TECHNOLOGY SUPPORT](http://padi.psiedu.ubbcluj.ro/adn/article_10_1_1.pdf)
