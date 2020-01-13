@@ -14,13 +14,14 @@
 * [Axolot](https://play.google.com/store/apps/details?id=org.axolotlLogicSoftware.axolotl&hl=en_US)
 * [Natural Numbers Game](http://wwwf.imperial.ac.uk/~buzzard/xena/natural_number_game/)
 * [Cassandra Xia's Games](http://cassandraxia.com/)
-* [Color Code](http://colorcode.laebisch.com/)
 
 ## Physical
 
 * [Hard Choices](https://www.rose-hulman.edu/class/csse/csse372/201410/Readings/hard-choices-game-explained-v1.pdf)
 * [Zendo](https://www.looneylabs.com/games/zendo#howtoplay)
 * [Black Box](https://gamegix.com/blackbox/game)
+* [Set](https://www.setgame.com/welcome)
+* [Color Code](http://colorcode.laebisch.com/)
 
 # Interactives
 
