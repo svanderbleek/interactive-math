@@ -23,6 +23,7 @@
 * [Set](https://www.setgame.com/welcome)
 * [Color Code](http://colorcode.laebisch.com/)
 * [Entropy](https://www.boardgamegeek.com/boardgame/1329/hyle)
+* https://en.wikipedia.org/wiki/List_of_abstract_strategy_games#Other_games
 
 # Interactives
 
