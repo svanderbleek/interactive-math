@@ -363,3 +363,7 @@ It's unclear how to relate this to any game / proof techniques.
 * https://www.csunplugged.org/en/
 * https://blog.acolyer.org/2019/04/17/teaching-rigorous-distributed-systems-with-efficient-model-checking/
 * https://runway.systems/
+
+## Software
+
+* https://react-devtools-tutorial.now.sh/
