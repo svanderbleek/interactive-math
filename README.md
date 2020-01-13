@@ -18,6 +18,7 @@
 ## Physical
 
 * [Hard Choices](https://www.rose-hulman.edu/class/csse/csse372/201410/Readings/hard-choices-game-explained-v1.pdf)
+* [Zendo](https://www.looneylabs.com/games/zendo#howtoplay)
 
 # Interactives
 
