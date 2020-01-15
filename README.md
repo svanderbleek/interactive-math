@@ -106,6 +106,8 @@ Software](http://www.cs.cmu.edu/~fp/courses/15317-f09/software.html)
 
 * [I speak math](https://ispeakmath.org/)
 * https://andymatuschak.org/
+* http://www.scottfarrar.com/sfx/
+* http://worrydream.com/Links2013/
 
 # Texts
 
@@ -215,6 +217,7 @@ Study
 ## Models
 
 * [Toward a modeling theory of physics instruction](http://modeling.asu.edu/R&E/ModelingThryPhysics.pdf)
+* [Visualisation and Cognition: Drawing Things Together](http://worrydream.com/refs/Latour%20-%20Visualisation%20and%20Cognition.pdf)
 
 ## Back and forth games
 
@@ -250,7 +253,6 @@ in ISAC](http://www.ist.tugraz.at/projects/isac/publ/mmahringer-master.pdf)
 * Pandora: A Reasoning Toolbox using Natural Deduction Style
 * The Evaluation of an Educational Aiding Tool for Students Learning Logic
 * [Proof Editor for Natural Deduction in First-order Logic The Evaluation of an Educational Aiding Tool for Students Learning Logic](https://gupea.ub.gu.se/bitstream/2077/53339/1/gupea_2077_53339_1.pdf)
-
 
 ## Proof
 
