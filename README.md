@@ -369,6 +369,7 @@ It's unclear how to relate this to any game / proof techniques.
 ## Physics
 
 * https://twitter.com/InertialObservr/status/1153018532369555456
+* https://quantum.country/
 
 ## Software
 
