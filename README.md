@@ -105,6 +105,7 @@ Software](http://www.cs.cmu.edu/~fp/courses/15317-f09/software.html)
 # Blogs
 
 * [I speak math](https://ispeakmath.org/)
+* https://andymatuschak.org/
 
 # Texts
 
@@ -375,3 +376,7 @@ It's unclear how to relate this to any game / proof techniques.
 
 * https://react-devtools-tutorial.now.sh/
 * https://illustrated.dev/
+
+## Maths
+
+* https://early.khanacademy.org/
