@@ -212,6 +212,10 @@ Study
 * [The math problem inside every math problem](http://blog.mathtoys.org/2015/01/the-math-problem-inside-every-math.html)
 * [Automated Generation of User Guidance by Combining Computation and Deduction](https://arxiv.org/pdf/1202.4832.pdf)
 
+## Models
+
+* [Toward a modeling theory of physics instruction](http://modeling.asu.edu/R&E/ModelingThryPhysics.pdf)
+
 ## Back and forth games
 
 * [Entropy and Matrix Multiplication Games](https://drops.dagstuhl.de/opus/volltexte/2016/5712/)
