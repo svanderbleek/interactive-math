@@ -108,6 +108,7 @@ Software](http://www.cs.cmu.edu/~fp/courses/15317-f09/software.html)
 * https://andymatuschak.org/
 * http://www.scottfarrar.com/sfx/
 * http://worrydream.com/Links2013/
+* https://numinous.productions/ttft/
 
 # Texts
 
@@ -377,6 +378,11 @@ It's unclear how to relate this to any game / proof techniques.
 
 * https://twitter.com/InertialObservr/status/1153018532369555456
 * https://quantum.country/
+* https://mitpress.mit.edu/sites/default/files/titles/content/sicm_edition_2/book.html
+
+## Econ
+
+* https://github.com/norvig/pytudes/blob/master/ipynb/Economics.ipynb
 
 ## Software
 
