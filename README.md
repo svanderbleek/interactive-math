@@ -75,6 +75,7 @@
 # Organizations
 
 * [Imaginary](https://imaginary.org/)
+* [Experimental Geometry Lab](http://egl.math.umd.edu/)
 * [NeuroScape](https://neuroscape.ucsf.edu/technology/)
 * [VeconLab](http://veconlab.econ.virginia.edu/) - sadz 2011
 * [Theorem proving components for Educational software](https://www.uc.pt/en/congressos/thedu)
