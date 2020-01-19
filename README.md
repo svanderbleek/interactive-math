@@ -406,3 +406,5 @@ It's unclear how to relate this to any game / proof techniques.
 
 * http://homepages.math.uic.edu/~kauffman/Laws.pdf
 * https://graphicallinearalgebra.net/
+* https://suhr.github.io/papers/calg.html
+* http://jlazovskis.com/docs/PenTen.pdf
