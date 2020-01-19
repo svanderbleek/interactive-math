@@ -397,3 +397,11 @@ It's unclear how to relate this to any game / proof techniques.
 
 * https://early.khanacademy.org/
 * https://explorabl.es/math/
+
+# Prototypes
+
+## QED with a better UI
+
+## Matrix Diagrams??
+
+* http://homepages.math.uic.edu/~kauffman/Laws.pdf
