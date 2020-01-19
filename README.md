@@ -411,3 +411,4 @@ It's unclear how to relate this to any game / proof techniques.
 * https://github.com/fluorine/GraphicMathNotation
 * https://www.ioc.ee/~pawel/
 * http://homepages.math.uic.edu/~kauffman/Form.html
+* http://www.crissp.be/wp-content/uploads/2018/02/jasperssmessaert.pdf
