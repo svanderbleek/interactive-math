@@ -402,7 +402,7 @@ It's unclear how to relate this to any game / proof techniques.
 
 ## QED with a better UI
 
-## Matrix Diagrams??
+## Diagrammatic Reasoning
 
 * http://homepages.math.uic.edu/~kauffman/Laws.pdf
 * https://graphicallinearalgebra.net/
@@ -413,3 +413,4 @@ It's unclear how to relate this to any game / proof techniques.
 * http://homepages.math.uic.edu/~kauffman/Form.html
 * http://www.crissp.be/wp-content/uploads/2018/02/jasperssmessaert.pdf
 * The Emergence of Orientation and the Geometry of Logic
+* http://www.markability.net/prospectus.htm
