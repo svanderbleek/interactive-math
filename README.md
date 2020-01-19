@@ -410,3 +410,4 @@ It's unclear how to relate this to any game / proof techniques.
 * http://jlazovskis.com/docs/PenTen.pdf
 * https://github.com/fluorine/GraphicMathNotation
 * https://www.ioc.ee/~pawel/
+* http://homepages.math.uic.edu/~kauffman/Form.html
