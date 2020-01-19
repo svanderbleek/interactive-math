@@ -404,6 +404,9 @@ It's unclear how to relate this to any game / proof techniques.
 
 ## Logic Game Engine
 
+* http://projects.illc.uva.nl/GLoRiClass/
+
+
 ## Diagrammatic Reasoning
 
 * http://homepages.math.uic.edu/~kauffman/Laws.pdf
