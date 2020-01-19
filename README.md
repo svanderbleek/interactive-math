@@ -30,6 +30,7 @@
 * [Digital Mathematics](http://www.malinc.se/math/)
 * [Learning Machines](http://learning-machines.herokuapp.com/)
 * https://lewiscarrollresources.net/gameoflogic/index.html
+* https://votbear.itch.io/oddeasy
 
 # Tools
 
@@ -407,10 +408,12 @@ It's unclear how to relate this to any game / proof techniques.
 * http://projects.illc.uva.nl/GLoRiClass/
 * http://www.logicinaction.org/docs/ch7.pdf
 * Saying It with Pictures: a logical landscape of conceptual graphs
+* Playing Lorenzen Dialogue Games on the Web∗
+* [Interpreting Sequent Calculi as Client-Server Games](https://www.logic.at/staff/chrisf/csgames-15.pdf)
 
 ## Carnap Extension
 
-* [Interpreting Sequent Calculi as Client-Server Games](https://www.logic.at/staff/chrisf/csgames-15.pdf)
+* [The Proof Complexity of Linear Algebra](http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.3.7503&rep=rep1&type=pdf)
 
 ## Diagrammatic Reasoning
 
