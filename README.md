@@ -406,6 +406,7 @@ It's unclear how to relate this to any game / proof techniques.
 
 * http://projects.illc.uva.nl/GLoRiClass/
 * http://www.logicinaction.org/docs/ch7.pdf
+* Saying It with Pictures: a logical landscape of conceptual graphs
 
 
 ## Diagrammatic Reasoning
