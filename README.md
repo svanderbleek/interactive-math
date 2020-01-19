@@ -29,6 +29,7 @@
 
 * [Digital Mathematics](http://www.malinc.se/math/)
 * [Learning Machines](http://learning-machines.herokuapp.com/)
+* https://lewiscarrollresources.net/gameoflogic/index.html
 
 # Tools
 
