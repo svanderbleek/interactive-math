@@ -294,6 +294,7 @@ Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-20
 * Let's not forget: Learning analytics are about learning
 * Learning analytics and educational data mining: towards communication and collaboration
 * Creating Effective Learning Analytics Dashboards: Lessons Learnt
+* [Measuring actual learning versus feeling of learning in response to being actively engaged in the classroom](https://www.pnas.org/content/116/39/19251)
 
 ## Gamification
 
