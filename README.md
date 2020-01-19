@@ -408,6 +408,9 @@ It's unclear how to relate this to any game / proof techniques.
 * http://www.logicinaction.org/docs/ch7.pdf
 * Saying It with Pictures: a logical landscape of conceptual graphs
 
+## Carnap Extension
+
+* [Interpreting Sequent Calculi as Client-Server Games](https://www.logic.at/staff/chrisf/csgames-15.pdf)
 
 ## Diagrammatic Reasoning
 
