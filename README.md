@@ -409,3 +409,4 @@ It's unclear how to relate this to any game / proof techniques.
 * https://suhr.github.io/papers/calg.html
 * http://jlazovskis.com/docs/PenTen.pdf
 * https://github.com/fluorine/GraphicMathNotation
+* https://www.ioc.ee/~pawel/
