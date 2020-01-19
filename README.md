@@ -402,6 +402,8 @@ It's unclear how to relate this to any game / proof techniques.
 
 ## QED with a better UI
 
+## Logic Game Engine
+
 ## Diagrammatic Reasoning
 
 * http://homepages.math.uic.edu/~kauffman/Laws.pdf
