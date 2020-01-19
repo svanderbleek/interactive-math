@@ -401,6 +401,14 @@ It's unclear how to relate this to any game / proof techniques.
 
 # Prototypes
 
+## Experiments Game
+
+* https://probcomp.github.io/Gen/
+* [Trace Types and Denotational Semantics for Sound Programmable Inference in Probabilistic Languages](http://alexlew.net/papers/trace-types-2020/paper.pdf)
+* http://probcomp.csail.mit.edu/software/bayesdb/
+* http://probcomp.csail.mit.edu/software/open-probabilistic-programming-stack/
+* [Introduction to probasbilistic programmying](https://arxiv.org/pdf/1809.10756.pdf)
+
 ## QED with a better UI
 
 ## Logic Game Engine
