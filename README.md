@@ -408,3 +408,4 @@ It's unclear how to relate this to any game / proof techniques.
 * https://graphicallinearalgebra.net/
 * https://suhr.github.io/papers/calg.html
 * http://jlazovskis.com/docs/PenTen.pdf
+* https://github.com/fluorine/GraphicMathNotation
