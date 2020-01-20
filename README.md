@@ -429,6 +429,8 @@ It's unclear how to relate this to any game / proof techniques.
 * Playing Lorenzen Dialogue Games on the Web∗
 * [Interpreting Sequent Calculi as Client-Server Games](https://www.logic.at/staff/chrisf/csgames-15.pdf)
 * An Automated Method for Building Cognitive Models for Turn-Based Games from a Strategy Logic
+* [Bridging the gap between logic and cognition: a translation method for centipede games(http://fse.studenttheses.ub.rug.nl/15845/1/hmc_thesis_s2402319.pdf)
+
 
 ## Carnap Extension
 
