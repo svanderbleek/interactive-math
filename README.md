@@ -394,6 +394,7 @@ It's unclear how to relate this to any game / proof techniques.
 
 * https://github.com/norvig/pytudes/blob/master/ipynb/Economics.ipynb
 * https://play.beatsempire.org/
+* http://titan.ja.org/
 
 ## Software
 
