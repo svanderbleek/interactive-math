@@ -450,10 +450,15 @@ It's unclear how to relate this to any game / proof techniques.
 
 * http://www.rntz.net/files/tones.pdf
 
-## Trig
+## Linear equation manipulator
+
+## Aproximation?
+
+### Trig
 
 * http://chalkdustmagazine.com/blog/how-to-calculators-do-trigonometry/
 
-## Alg
+### Alg
 
+* http://chalkdustmagazine.com/features/on-sqrt-2/
 * https://en.wikipedia.org/wiki/Chakravala_method
