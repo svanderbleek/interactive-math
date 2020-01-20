@@ -410,6 +410,10 @@ It's unclear how to relate this to any game / proof techniques.
 * [Introduction to probasbilistic programmying](https://arxiv.org/pdf/1809.10756.pdf)
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf)
 
+## Probability Distribution Game
+
+* https://nskobelevs.github.io/p5js/BayesTheorem/
+
 ## QED with a better UI
 
 ## Logic Game Engine
