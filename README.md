@@ -414,7 +414,7 @@ It's unclear how to relate this to any game / proof techniques.
 * http://probcomp.csail.mit.edu/software/open-probabilistic-programming-stack/
 * [Introduction to probasbilistic programmying](https://arxiv.org/pdf/1809.10756.pdf)
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf)
-* The definition of randomness - Per martin lof - universal test of randomness
+* The definition of random sequences - Per martin lof - universal test of randomness
 
 ## Probability Distribution Game
 
