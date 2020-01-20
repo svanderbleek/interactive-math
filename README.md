@@ -453,3 +453,7 @@ It's unclear how to relate this to any game / proof techniques.
 ## Trig
 
 * http://chalkdustmagazine.com/blog/how-to-calculators-do-trigonometry/
+
+## Alg
+
+* https://en.wikipedia.org/wiki/Chakravala_method
