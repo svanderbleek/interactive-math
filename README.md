@@ -452,6 +452,7 @@ It's unclear how to relate this to any game / proof techniques.
 * http://www.markability.net/prospectus.htm
 * Diagrammatic logic and game-playing 
 * [EXISTENTIAL GRAPHS AS AN INSTRUMENT OF LOGICAL ANALYSIS](https://s3.amazonaws.com/academia.edu.documents/39607919/_FB_AP__EGs_as_Instrument_of_Logical_Analysis_FOURTH_VERSION.pdf?response-content-disposition=inline%3B%20filename%3DExistential_Graphs_as_an_Instrument_of_L.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200120T203918Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=df0f64ae4f1f0521e4beddd9cf4c9727ff16ccade8f24da25b3e18290739023b)
+* [Existential Graphs as a basis for structured reasoning](https://s3.amazonaws.com/academia.edu.documents/58911391/LEGRIS-diagrams2018finaldraft.pdf?response-content-disposition=inline%3B%20filename%3DExistential_Graphs_as_a_Basis_for_Struct.pdf&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIAIWOWYYGZ2Y53UL3A%2F20200120%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20200120T203942Z&X-Amz-Expires=3600&X-Amz-SignedHeaders=host&X-Amz-Signature=3581489961e998d4a2845d5ed9c0017a15a6155dc64ac7d86629a00ff15468db)
 
 ## Orders
 
