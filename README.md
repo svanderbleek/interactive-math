@@ -357,6 +357,10 @@ It's unclear how to relate this to any game / proof techniques.
 * [Deriving Quests from Open World Mechanics](https://arxiv.org/pdf/1705.00341.pdf)
 * [The Design of Artifacts for Augmenting Intellect](http://cassandraxia.com/projs/designofiaartifacts.pdf)
 
+## Mental IMagery
+
+* https://www.frontiersin.org/articles/10.3389/fpsyg.2019.02034/full
+
 # Related Work
 
 ## Music
@@ -398,6 +402,7 @@ It's unclear how to relate this to any game / proof techniques.
 
 * https://early.khanacademy.org/
 * https://explorabl.es/math/
+* https://littlegrayfieldhouse.itch.io/
 
 # Prototypes
 
@@ -444,3 +449,7 @@ It's unclear how to relate this to any game / proof techniques.
 ## Orders
 
 * http://www.rntz.net/files/tones.pdf
+
+## Trig
+
+* http://chalkdustmagazine.com/blog/how-to-calculators-do-trigonometry/
