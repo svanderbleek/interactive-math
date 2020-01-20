@@ -393,6 +393,7 @@ It's unclear how to relate this to any game / proof techniques.
 ## Econ
 
 * https://github.com/norvig/pytudes/blob/master/ipynb/Economics.ipynb
+* https://play.beatsempire.org/
 
 ## Software
 
