@@ -416,6 +416,17 @@ It's unclear how to relate this to any game / proof techniques.
 * [Introduction to probasbilistic programmying](https://arxiv.org/pdf/1809.10756.pdf)
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf)
 * The definition of random sequences - Per martin lof - universal test of randomness
+* [A shiny update to an old experiment game](https://arxiv.org/pdf/1803.00613.pdf)
+
+## QED with a better UI
+
+## Logic Game Engine
+
+* http://projects.illc.uva.nl/GLoRiClass/
+* http://www.logicinaction.org/docs/ch7.pdf
+* Saying It with Pictures: a logical landscape of conceptual graphs
+* Playing Lorenzen Dialogue Games on the Web∗
+* [Interpreting Sequent Calculi as Client-Server Games](https://www.logic.at/staff/chrisf/csgames-15.pdf)
 
 ## Probability Distribution Game
 
