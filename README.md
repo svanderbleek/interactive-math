@@ -417,6 +417,10 @@ It's unclear how to relate this to any game / proof techniques.
 * [Foundations of Constructive Probability Theory](https://arxiv.org/pdf/1906.01803.pdf)
 * The definition of random sequences - Per martin lof - universal test of randomness
 * [A shiny update to an old experiment game](https://arxiv.org/pdf/1803.00613.pdf)
+* Statistical Games as Teaching Aids
+* An experiement game
+* Using the board game Borel to illustrate probability calculation
+* [Assemble to Order Simulator](http://simopt.org/wiki/index.php?title=Assemble_to_Order&oldid=447)
 
 ## QED with a better UI
 
