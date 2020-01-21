@@ -491,3 +491,7 @@ It's unclear how to relate this to any game / proof techniques.
 
 * http://chalkdustmagazine.com/features/on-sqrt-2/
 * https://en.wikipedia.org/wiki/Chakravala_method
+
+## Equational Logic
+
+* http://www.cs.cornell.edu/home/gries/Logic/Equational.html
