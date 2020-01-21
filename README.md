@@ -408,6 +408,14 @@ It's unclear how to relate this to any game / proof techniques.
 * https://explorabl.es/math/
 * https://littlegrayfieldhouse.itch.io/
 
+## Computational THinking
+
+* https://www.wolfram.com/programming-lab/
+* http://www.wolfram.com/language/elementary-introduction/
+* http://education.wolfram.com/summer/
+* https://csunplugged.org/en/
+* https://docs.google.com/document/d/1r1b2CM1uTdST47IbWa7zlZYmbfoqrgYSeym2inUvnFo/edit
+
 # Prototypes
 
 ## Experiments Game
