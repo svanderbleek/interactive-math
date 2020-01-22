@@ -374,6 +374,7 @@ It's unclear how to relate this to any game / proof techniques.
 * [Syntorial](https://www.syntorial.com/)
 * [Learning Synths](https://learningsynths.ableton.com/)
 * [Toned Ear](https://tonedear.com/)
+* [Yousician](https://yousician.com/bass)
 
 ## Algorithms
 
