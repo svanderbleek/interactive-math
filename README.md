@@ -281,6 +281,7 @@ in ISAC](http://www.ist.tugraz.at/projects/isac/publ/mmahringer-master.pdf)
 Algorithms to Work](https://journal.r-project.org/archive/2018/RJ-2018-003/RJ-2018-003.pdf)
 * I Think You Think I Think You're Lying: The Interactive Epistemology of Trust in Social Networks
 * Linking GameTheoretical Approaches with Constructive Type Theory
+* First steps in constructive game theory
 
 ## DragonBox
 
